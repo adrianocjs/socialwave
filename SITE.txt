@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Meu Site</title>
+  </head>
+  <body>
+    <h1>Bem-vindo ao meu site</h1>
+    <p>Esse é o meu primeiro site criado usando HTML.</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+    <img src="imagem.jpg" alt="Minha imagem">
+    <a href="https://www.exemplo.com">Clique aqui</a>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Frases motivacionais</title>
+  </head>
+  <body>
+    <h1>Frases motivacionais</h1>
+    <ul>
+      <li>"A vida é como uma caixa de surpresas: nunca sabemos o que vai acontecer, mas temos que estar preparados para tudo."</li>
+      <li>"Não importa o quanto você tenha falhado no passado, você sempre tem a chance de começar de novo."</li>
+      <li>"Se você quer algo diferente, você tem que fazer algo diferente."</li>
+      <li>"Se você acredita em si mesmo, tudo é possível."</li>
+      <li>"Se você não sabe aonde quer chegar, qualquer caminho serve."</li>
+    </ul>
+  </body>
+</html>
